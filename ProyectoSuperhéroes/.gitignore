@@ -1,0 +1,47 @@
+# Ignorar archivos de configuración y temporales
+.android/
+.chatgpt/
+.gitconfig
+.lesshst
+.mobisystems/
+.node_repl_history/
+.ssh/
+.vscode/
+
+# Ignorar archivos del sistema y temporales
+NTUSER.DAT
+NTUSER.DAT{*}.TM.blf
+NTUSER.DAT{*}.TMContainer*.regtrans-ms
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+ntuser.ini
+
+# Ignorar carpetas de datos personales y configuraciones
+AppData/
+Contacts/
+Downloads/
+Favorites/
+IntelGraphicsProfiles/
+Links/
+MediaGet2/
+Music/
+OneDrive/
+Saved Games/
+Searches/
+Tracing/
+Videos/
+
+# Ignorar otras carpetas irrelevantes para el proyecto
+3D Objects/
+CURSADA DE DIPLOMATURA/
+DIPLOMATURA FULL/
+data/
+diplomatura/
+mi-primer-rep/
+mi-proyecto/
+mi-repositorio-ejemplo/
+modulos-nodejs-ejercicios/
+practica de html clase 8/
+practicas diplomatura/
+practico01/
+proyecto-Superheroes-2/
